@@ -1,4 +1,10 @@
-# Application Purpose
+
+Identifying Information:
+Name: Casey Counts
+Student ID: 2291417
+Email: ccounts@chapman.edu
+Class: CPSC 298
+Assignment: numbers.sh script# Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
    
